@@ -1,6 +1,5 @@
 # Project: Movie Recommender System Using Machine Learning!
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -9,18 +8,7 @@ The purpose of a recommendation system basically is to search for content that w
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
-here is a demo,
 
-* [Click here to run it live on server](https://movie-recommeder-system.herokuapp.com/)
-
-
-# Demo:
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
@@ -35,12 +23,12 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/Ramanjaneyuluchinthakunta/Movie-Recommender-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n movie python=3.7.10 -y
+conda create -n movie python=3.11 -y
 ```
 
 ```bash
@@ -67,9 +55,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Ram
 Data Scientist
-Email: entbappy73@gmail.com
+Email: cramanji58@gmail.com
 
 ```
 
